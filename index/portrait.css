@@ -9,6 +9,9 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     ;
 }
+table{
+   border-collapse: collapse;
+}
 main{
     width: 100px;
     background-color: bisque;

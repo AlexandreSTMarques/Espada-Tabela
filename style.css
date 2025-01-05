@@ -48,6 +48,23 @@ article{
 }
 table{
     border-collapse: collapse;
+   
+
+  
+}
+table.T2 th , td{
+    text-align:center;
+  
+    
+    
+}
+
+   
+
+table.T3 th, td{
+   text-align: center;
+
+   
 }
 thead{
  
@@ -61,16 +78,31 @@ caption{
     background-color: black;
    color: white;
    width: 500px;
+   text-align: left;
+  
+   
+}
+th{
+    text-align: left;
+    padding-right: 50px;
+
+}
+th.INT{
+    text-align:left;
 }
 td{
-    padding-left: 50px;
+    padding-left:20px;
+    text-align:left;
      
 }
-td.direita{
-    text-align: center;
-}
+
+
 td.imp:nth-child(1n){
 background-color: rgba(173, 224, 173, 0.458);
 
+}
+.tb4  th , td{
+    text-align: center;
+  
 }
 
