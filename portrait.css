@@ -14,9 +14,12 @@ h1{
    padding-top: 15px;
   
 }
-h2{
+ h2{
     font-size: 1.2em;
-    padding-left: 10px;
+   
+    text-align: center;
+   
+   
 
 }
 p{
@@ -30,7 +33,7 @@ main{
 article{
     display: flex;
     flex-flow: column-reverse nowrap;
-    justify-items:flex-end;
+    
     position: relative;
     right:100%;
     left: 1%;
